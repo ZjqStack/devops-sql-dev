@@ -1,5 +1,5 @@
 CREATE TABLE timecards (
-  `timecard_id` INT AUTO_INCREMENT PRIMARY KEY,
+  `timecard1_id` INT AUTO_INCREMENT PRIMARY KEY,
   `emp_no` INT NOT NULL,
   `date` DATE NOT NULL,
   `start_time` TIME NOT NULL,
